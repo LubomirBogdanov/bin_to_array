@@ -19,5 +19,5 @@ path_and_file_name_in - the binary file to be converted to a C array (bin, jpg, 
 path_and_file_name_out - the text file that will hold an array of bytes in C.  
   
 Example:  
-bin_to_array /home/user/Desktop/pic.jpg /home/user/Desktop/pic.h  
+./bin_to_array /home/user/Desktop/pic.jpg /home/user/Desktop/pic.h  
 
